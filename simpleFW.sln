@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IP_Moniter", "IP_Moniter\IP_Moniter.vcxproj", "{892E8378-F5DC-4E45-A309-2272DAA6A23C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UI", "UI\UI.vcxproj", "{6716CB50-8396-4131-AC71-28CB1AFFC361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{892E8378-F5DC-4E45-A309-2272DAA6A23C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{892E8378-F5DC-4E45-A309-2272DAA6A23C}.Debug|Win32.Build.0 = Debug|Win32
+		{892E8378-F5DC-4E45-A309-2272DAA6A23C}.Release|Win32.ActiveCfg = Release|Win32
+		{892E8378-F5DC-4E45-A309-2272DAA6A23C}.Release|Win32.Build.0 = Release|Win32
+		{6716CB50-8396-4131-AC71-28CB1AFFC361}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6716CB50-8396-4131-AC71-28CB1AFFC361}.Debug|Win32.Build.0 = Debug|Win32
+		{6716CB50-8396-4131-AC71-28CB1AFFC361}.Release|Win32.ActiveCfg = Release|Win32
+		{6716CB50-8396-4131-AC71-28CB1AFFC361}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9C6DD82-F224-4C02-B17B-D4CC269C79C4}
+	EndGlobalSection
+EndGlobal

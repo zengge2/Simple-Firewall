@@ -1,0 +1,9 @@
+LIBRARY   IP_Moniter
+DESCRIPTION "Implements a SPI."
+EXPORTS
+   WSPStartup   @1
+   IOCtrl		@2
+SECTIONS
+	.uniData READ WRITE SHARED
+    .uni2Data READ WRITE SHARED
+
